@@ -29,6 +29,9 @@ The Rijndael Forward S-Box lookup table is generated in rijndael-s-box-table.js 
 - P-box
 - flag to identify whether to use forward or reverse P-box (false by default)
 
+### Returns:
+- an array of binary 8-bit blocks which values were permuted using the P-box
+
 ```sh
 pBox(binaryArray, forwardPBox, true)
 ```
