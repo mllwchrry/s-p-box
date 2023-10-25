@@ -20,7 +20,7 @@ sBox(binaryArray, lookupTable)
 
 The Rijndael Forward S-Box lookup table is generated in rijndael-s-box-table.js according to the formula:
 
-![Screenshot 2023-10-25 at 20.03.03.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F0x%2Fhyp6schs767068xyt9_48w500000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_Wt92Wk%2FScreenshot%202023-10-25%20at%2020.03.03.png)
+<img width="432" alt="Screenshot 2023-10-25 at 20 32 56" src="https://github.com/mllwchrry/s-p-box/assets/72436706/ae32efd5-0047-4737-872f-1930bbb148c1">
 
 ## P-Box
 
