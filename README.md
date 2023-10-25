@@ -62,5 +62,4 @@ npx mocha test.js
 ```
 
 ### Test results
-
-![Screenshot 2023-10-25 at 20.17.49.png](..%2F..%2F..%2F..%2Fvar%2Ffolders%2F0x%2Fhyp6schs767068xyt9_48w500000gn%2FT%2FTemporaryItems%2FNSIRD_screencaptureui_nUgoft%2FScreenshot%202023-10-25%20at%2020.17.49.png)
+<img width="500" alt="Screenshot 2023-10-25 at 20 31 53" src="https://github.com/mllwchrry/s-p-box/assets/72436706/ca9f221f-8248-40f1-a7f4-e4474bd807b5">
